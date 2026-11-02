@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "concord": {
+      "command": "concord-mcp",
+      "env": {
+        "CONCORD_REPO_ROOT": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyectos\\Concord\\concord-viewer"
+      }
+    }
+  }
+}
